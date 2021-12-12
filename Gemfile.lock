@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pseudo_legal_move_tablebase-puchi_shogi (1.0.0)
+    pseudo_legal_move_tablebase-puchi_shogi (1.0.1)
 
 GEM
   remote: https://rubygems.org/
